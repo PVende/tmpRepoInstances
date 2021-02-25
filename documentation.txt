@@ -1,0 +1,13 @@
+Number of bus line |L|
+Number of bus stop |V|
+For each line, number of stops in the line |V_l| then stops of the line
+For each line, bus passing frequency f_l
+Between each stop in the network, distance matrix d_ij
+Between each stop in the network, travel time matrix tt_ij
+For each stop, installation cost c_i
+Budget B
+For each line, for each stop, maximum stop duration w_li
+Charging speed rate R
+Battery capacity C
+Between each stop in the network, electric consumption matrix e_ij
+Between each stop in the network, mandatory electric section matrix m_ij
